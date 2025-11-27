@@ -7,7 +7,6 @@ Sou Técnico em Eletrônica fomado no COLTEC/UFMG, estudante de Sistemas de Info
 Interessado no Ecossistema SAP, já trabalhei no ERP(ECC e S/4) e com outras ferramentas SAP como PI, BW, BPC, SAP Analytics Cloud.
 
 Também tenho nível Avançado de Inglês.
----
 
 ## Minhas Skills
 
