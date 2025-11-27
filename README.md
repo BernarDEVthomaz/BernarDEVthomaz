@@ -10,7 +10,7 @@ Também tenho nível Avançado de Inglês.
 
 ## Minhas Skills
 
-### Linguagens/Csnsultas/Texto
+### Linguagens/Consultas/Texto
 - ABAP
 - Python
 - SQL
