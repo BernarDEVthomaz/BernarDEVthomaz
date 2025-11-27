@@ -46,7 +46,7 @@ Estagiário de BI — Unit Consulting
 ---
 Período: 01/04/2024 — 31/12/2024  
 Linguagens e Tecnologias: `BW`,`BPC`,`ABAP`,`SAC`,`Excel`
-Atividades: Atuação em projetos e suporte AMS
+Atividades: Atuação em projetos e suporte AMS Internacional
 
 ##  Onde me encontrar
 
