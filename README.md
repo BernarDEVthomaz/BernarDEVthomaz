@@ -39,7 +39,7 @@ Também tenho nível Avançado de Inglês.
 Consultor SAP ABAP — Escotta Consulting 
 ---
 Período: 12/05/2025 — Atual  
-Linguagens e Tecnologias: `ABAP`, `PIPO`
+Linguagens e Tecnologias: `ABAP`, `PI/PO`
 Atividades Atuação em projetos e suporte AMS
 
 
