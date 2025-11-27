@@ -50,6 +50,6 @@ Atividades: Atuação em projetos e suporte AMS Internacional
 
 ##  Onde me encontrar
 
-(https://www.linkedin.com/in/bernardothomazdeoliveira/)
-(https://www.instagram.com/bernardothomaz_/)
-(thomaz.bernardo@gmail.com)
+LinkedIn: https://www.linkedin.com/in/bernardothomazdeoliveira/
+Instagram : https://www.instagram.com/bernardothomaz_/
+E-mail: thomaz.bernardo@gmail.com
